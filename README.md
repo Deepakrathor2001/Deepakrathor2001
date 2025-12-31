@@ -3,16 +3,15 @@
 I am an AI/ML learner with hands-on experience in Python and machine learning.
 I enjoy building practical projects and learning by working with real data.
 
-SKILLS
-programming language: python,sql
-Libraries & Frameworks: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch,
-OpenCV
-Machine Learning: Regression, Classification, Clustering, Feature Engineering, Model
-Evaluation, Hyperparameter Tuning
-Deep Learning: CNNs, RNNs, LSTMs, GANs, Transfer Learning
-AI/ML Tools: Jupyter Notebook, Google Colab, vs code
-Version Control: Git, GitHub
-Other Skills: Data Structure & Algorithams, Database Management, NLP, Computer Vision, OS
+**SKILLS**
+**programming language:** python,sql
+**Libraries & Frameworks**: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, PyTorch,
+                            OpenCV
+**Machine Learning**: Regression, Classification, Clustering, Feature Engineering, Model
+                      Evaluation, Hyperparameter Tuning
+**Deep Learning:** CNNs, RNNs, LSTMs, GANs, Transfer Learning
+**AI/ML Tools:** Jupyter Notebook, Google Colab, vs code
+**Other Skills:** Data Structure & Algorithams, Database Management, NLP, Computer Vision, OS
 
 
 ### 📌 Projects
