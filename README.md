@@ -1,7 +1,9 @@
 ## Hi, I'm Deepak 👋
 
-I am an AI/ML learner with hands-on experience in Python and machine learning.
-I enjoy building practical projects and learning by working with real data.
+I am a motivated and curious AI/ML learner who enjoys working with data and building practical solutions using machine learning. I have hands-on experience with Python and have worked on multiple academic and personal projects involving data preprocessing, model training, and evaluation.
+
+I prefer learning by doing and continuously improving my skills through real-world datasets and project-based work. My interests include machine learning, deep learning, NLP, and computer vision, and I actively explore these areas through consistent practice.
+
 
 **SKILLS** 
 
