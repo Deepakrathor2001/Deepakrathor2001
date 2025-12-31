@@ -23,10 +23,20 @@ I prefer learning by doing and continuously improving my skills through real-wor
 
 
 ### 📌 Projects
-- Movie Recommendation System
-- Fake News Detection
-- Face Mask Detection
-- Weather Forecasting
+**1. FACE MASK DETECTION USING DEEP LEARNING**
+
+Tech Used: TensorFlow, Keras, OpenCV
+Created a CNN-based model to classify “Mask” vs “No Mask” in real-time webcam feed.
+Github Link:
+
+****2.CHATBOT USING NLP****
+
+Tech Used: Python, NLTK, SpeechRecognition, pyttsx3
+Designed a voice-interactive chatbot that can answer user queries, open apps, and fetch
+online data.
+Integrated voice recognition + NLP intent classification for smooth interaction.
+Github link:
+
 
 ### 🌱 Currently Learning
 - Model optimization
@@ -35,3 +45,4 @@ I prefer learning by doing and continuously improving my skills through real-wor
 
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/deepakrathor
+- E-mail: omprakashrathor0789@gmail.com
