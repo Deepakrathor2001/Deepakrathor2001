@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Deepak 👋
 
-<!--
-**Deepakrathor2001/Deepakrathor2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI/ML learner with hands-on experience in Python and machine learning.
+I enjoy building practical projects and learning by working with real data.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Machine Learning
+- Deep Learning (basic)
+- Data Analysis
+- NLP & Computer Vision (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Movie Recommendation System
+- Fake News Detection
+- Face Mask Detection
+- Weather Forecasting
+
+### 🌱 Currently Learning
+- Model optimization
+- Deep learning concepts
+- Practical AI applications
+
+### 🔗 Connect with me
+- LinkedIn: https://linkedin.com/in/deepakrathor
