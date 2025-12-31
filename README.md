@@ -5,7 +5,7 @@ I am a motivated and curious AI/ML learner who enjoys working with data and buil
 I prefer learning by doing and continuously improving my skills through real-world datasets and project-based work. My interests include machine learning, deep learning, NLP, and computer vision, and I actively explore these areas through consistent practice.
 
 
-**SKILLS** 
+**SKILLS**
 
 **programming language:** python,sql
 
@@ -25,13 +25,15 @@ I prefer learning by doing and continuously improving my skills through real-wor
 ### 📌 Projects
 **1. FACE MASK DETECTION USING DEEP LEARNING**
 
-Tech Used: TensorFlow, Keras, OpenCV
+Tech Used: TensorFlow, Keras, OpenCV.
+
 Created a CNN-based model to classify “Mask” vs “No Mask” in real-time webcam feed.
 Github Link:
 
 ****2.CHATBOT USING NLP****
 
-Tech Used: Python, NLTK, SpeechRecognition, pyttsx3
+Tech Used: Python, NLTK, SpeechRecognition, pyttsx3.
+
 Designed a voice-interactive chatbot that can answer user queries, open apps, and fetch
 online data.
 Integrated voice recognition + NLP intent classification for smooth interaction.
@@ -39,9 +41,10 @@ Github link:
 
 
 ### 🌱 Currently Learning
-- Model optimization
+- Machine learning & Model optimization
 - Deep learning concepts
-- Practical AI applications
+- NLP concepts
+- Practical AI applications & real world projects
 
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/deepakrathor
