@@ -48,4 +48,4 @@ Github link:
 
 ### 🔗 Connect with me
 - LinkedIn: https://linkedin.com/in/deepakrathor
-- E-mail: omprakashrathor0789@gmail.com
+- E-mail: deepakrathor9955@gmail.com
