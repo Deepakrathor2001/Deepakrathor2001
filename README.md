@@ -10,7 +10,7 @@ I enjoy designing end-to-end AI solutions—from data preprocessing and model de
 
 ##  About Me
 
-*  Building production-style AI/ML and Generative AI applications
+*  Building production-style AI/ML and LLM AI applications
 *  Interested in LLMs, RAG, NLP, Recommendation Systems, and AI Automation
 *  Continuously learning modern AI frameworks and deployment techniques
 *  Open to AI/ML Engineer, Machine Learning Engineer, LLM Engineer, and Generative AI Engineer opportunities
@@ -121,6 +121,13 @@ Python • Streamlit • Scikit-Learn • FAISS • Annoy • SQLite
 * FAISS Similarity Search
 * Recommendation Analytics
 * User Rating Management
+
+
+# Projects link 
+1. https://huggingface.co/spaces/Deepakrathor2001/Vision-AI-LLM-Chatbot-Assistant
+2. https://github.com/Deepakrathor2001/CineMatch-Hybrid-Movie-Recommendation-System
+3. https://fraudshield-ai-fraud-email-and-sms.onrender.com/
+4. https://github.com/Deepakrathor2001/FAQ-Customer-Support-Chatbot 
 
 
 #  Currently Learning
