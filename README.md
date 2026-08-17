@@ -58,13 +58,32 @@ I enjoy designing end-to-end AI solutions—from data preprocessing and model de
 ### Frameworks & Tools
 
 * Streamlit
+* FastAPI
 * OpenCV
 * Git
 * GitHub
+* Docker
 * Hugging Face
 * Render
 * VS Code
 * Jupyter Notebook
+
+---
+### Professional Experience
+*AI/ML Engineer Intern — Ved Logistics
+*Remote | Dec 2025 – Jul 2026
+
+* Developed an AI-powered customer support chatbot using Python, FastAPI, LangChain, RAG, vector databases, and LLM APIs to handle shipment     tracking, booking, pricing, and customer support queries.
+
+* Built a RAG pipeline using embeddings and semantic search to retrieve relevant information from company documentation and generate context-aware responses.
+
+* Integrated the chatbot with internal business and shipment-tracking APIs to provide application-specific information to users.
+
+* Collaborated with the engineering team on a logistics management system for customer, shipment, booking, tracking, payment, and employee operations.
+
+* Developed and maintained backend functionality using Python, FastAPI, SQL, REST APIs, and AI/ML technologies.
+
+* Gained practical experience in translating business requirements into AI-powered features, integrating APIs, debugging applications, and working within a collaborative development environment.
 
 ---
 
