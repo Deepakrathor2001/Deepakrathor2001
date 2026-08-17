@@ -59,11 +59,14 @@ I enjoy designing end-to-end AI solutions—from data preprocessing and model de
 
 * Streamlit
 * FastAPI
+* LanChain
+* LangGraph
 * OpenCV
 * Git
 * GitHub
 * Docker
 * Hugging Face
+* Cloud/Gemini/Chatgpt
 * Render
 * VS Code
 * Jupyter Notebook
@@ -153,7 +156,7 @@ Python • Streamlit • Scikit-Learn • FAISS • Annoy • SQLite
 
 * Advanced RAG Architectures
 * AI Agents & Multi-Agent Systems
-* LangGraph
+* System Design
 * Model Context Protocol (MCP)
 * MLOps
 * Scalable LLM Applications
